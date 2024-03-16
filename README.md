@@ -1,6 +1,6 @@
 # Het eindproject - Gemeentelijke financiën Nijkerk
 
-Link naar Github repository: https://github.com/gizembrasser/data-analytics-project
+Link naar Github repository: https://github.com/gizembrasser/data-analytics-project/data-analytics-project/01-level
 
 ## Beschrijving
 Dit dashboard weergeeft informatie over de gemeentelijke financiën van Nijkerk vergeleken met de rest van Nederlandse gemeenten. De data is afkomstig uit de begrotingen (2020 - 2024) en jaarrekeningen (2020 - 2022) van alle gemeenten, en uit bevolkingsgegevens van deze gemeenten. Het doel van het dashboard is om de volgende businessvragen te beantwoorden: 
