@@ -2,6 +2,8 @@
 
 Link naar Github repository: https://github.com/gizembrasser/data-analytics-project/tree/main/data-analytics-project/01-level
 
+**Update: ik heb de laatste visual op een andere pagina gezet in het dashboard. Ik dacht dat de buttons ook telden als visuals dus vandaar dacht ik dat ik er genoeg had :)
+
 ## Beschrijving
 Dit dashboard weergeeft informatie over de gemeentelijke financiën van Nijkerk vergeleken met de rest van Nederlandse gemeenten. De data is afkomstig uit de begrotingen (2020 - 2024) en jaarrekeningen (2020 - 2022) van alle gemeenten, en uit bevolkingsgegevens van deze gemeenten. Het doel van het dashboard is om de volgende businessvragen te beantwoorden: 
 
